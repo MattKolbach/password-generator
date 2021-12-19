@@ -10,7 +10,7 @@ Module 3 Challenge
 - lowercase letters?
 - uppercase letters?
 - numeric values?
-- special characters
+- special characters?
 
 ### Verify that at least one option was chosen
 - Display generated password as an alert or written to the page.
